@@ -4,7 +4,7 @@ Welcome to my GitHub page! I'm Gil Matzafi, An enthusiastic Computer Science stu
 
 
 🌱 **Currently learning**: AI, ML, Network Security  
-📬 **Reach me at**: [Gillm9136@gmail.com]
+📬 **Reach me at**: Gillm9136@gmail.com
 🎉 **Fun Facts**:  
 - I love tennis 🎾  
 - I enjoy playing chess ♟️  
