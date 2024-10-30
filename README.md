@@ -1,4 +1,4 @@
-# 👋 Hi there!
+<h1 align="center">Hi there! Glad to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 🤖</h1>
 
 Welcome to my GitHub page!  
 I'm **Gil Matzafi**, an enthusiastic Computer Science student at **Bar Ilan University** with a strong drive for development and innovation.
