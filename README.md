@@ -42,10 +42,7 @@ I'm **Gil Matzafi**, an enthusiastic Computer Science student at **Bar Ilan Univ
 
 ---
 
-### 📊 GitHub Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GilMatzafi&show_icons=true&theme=radical)
 
----
 
 Thank you for visiting my GitHub profile! 😊 Looking forward to connecting and collaborating with you!
 
