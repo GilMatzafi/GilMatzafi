@@ -17,8 +17,8 @@ I'm **Gil Matzafi**, an enthusiastic Computer Science student at **Bar Ilan Univ
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/gil-matzafi-65283723b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/GilMatzafi)
+<a href="https://linkedin.com/in/gil-matzafi-65283723b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>  
+<a href="https://github.com/GilMatzafi" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge"></a>
 
 ---
 
