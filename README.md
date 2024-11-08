@@ -17,15 +17,25 @@ I'm **Gil Matzafi**, an enthusiastic Computer Science student at **Bar Ilan Univ
 ---
 
 ### 🌐 Connect with Me
-<a href="https://linkedin.com/in/gil-matzafi-65283723b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>  
-<a href="https://github.com/GilMatzafi" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/gil-matzafi-65283723b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/GilMatzafi)
 
 ---
+
+### 🚀 Projects
+Here are a few highlights of my work:
+
+- **[Arkanoid Brick Game](https://github.com/GilMatzafi/arkanoid-BrickGame)**  
+  A Java project developed with object-oriented principles and design patterns, bringing back the classic arcade game experience with an original twist.
+
+---
+
 
 ### 🛠️ Languages and Tools
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
