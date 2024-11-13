@@ -25,7 +25,7 @@ I'm **Gil Matzafi**, an enthusiastic Computer Science student at **Bar Ilan Univ
 ### 🚀 Projects
 Here are a few highlights of my work:
 
-- **[ShopEasy - eCommerce Platform](https://github.com/yourusername/ShopEasy)**  
+- **[ShopEasy - eCommerce Platform](https://github.com/GilMatzafi/ShopEasy)**  
   A eCommerce platform built with React, Redux Toolkit, Node, Express, and MongoDB. Includes secure JWT authentication and an admin dashboard to manage products, customers, and orders.
 
 - **[Arkanoid Brick Game](https://github.com/GilMatzafi/arkanoid-BrickGame)**  
