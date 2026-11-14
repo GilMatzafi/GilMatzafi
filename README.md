@@ -6,7 +6,6 @@ I'm **Gil**, a Full Stack Engineer who loves building things from the first idea
 
 ### 📚 About Me
 - 🎓 **Education**: B.Sc. in Computer Science, Bar-Ilan University  
-- 🌟 **Interests**: Software Engineering, ML & AI, CyberSecuirity   
 - 📬 **Reach Me At**: [Gillm9136@gmail.com](mailto:Gillm9136@gmail.com)
 
 ### 🎉 Fun Facts
