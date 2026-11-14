@@ -4,7 +4,7 @@ _Every line of code should earn its place._
 
 </div>
 
-Hi, I'm Gil 👋 I love building things from the first idea all the way to the last pixel, and turning messy problems into simple software that just works. Lately I'm especially curious about what AI can do inside everyday products.
+Hi, I'm Gil 👋 I love building things from the first idea all the way to the last pixel. Lately I'm especially curious about what AI can do inside everyday products.
 
 Currently at **Automaticli** · B.Sc. in Computer Science from **Bar-Ilan University**
 
