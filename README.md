@@ -16,13 +16,18 @@ I'm **Gil**, a Full Stack Engineer who loves building things from the first idea
 ---
 
 ### 🚀 Projects
-Here are a few highlights of my work:
 
-- **[ShopEasy - eCommerce Platform](https://github.com/GilMatzafi/ShopEasy)**  
-  A eCommerce platform built with React, Redux Toolkit, Node, Express, and MongoDB. Includes secure JWT authentication and an admin dashboard to manage products, customers, and orders.
+- **[BabyCam](https://github.com/DanielMich99/BabyCam)** · [Demo](https://www.youtube.com/watch?v=othOOGOn8nY)  
+  Infant safety monitoring system combining smart cameras, real-time object detection and a mobile app. Final-year team project.  
+  `Flutter` `YOLO` `ESP32` `Google Cloud`
 
-- **[Arkanoid Brick Game](https://github.com/GilMatzafi/arkanoid-BrickGame)**  
-  A Java project developed with object-oriented principles and design patterns, bringing back the classic arcade game experience with an original twist.
+- **[TradingHub](https://github.com/GilMatzafi/TradingHub)**  
+  Detects candlestick patterns and backtests long/short strategies on historical market data.  
+  `Python` `FastAPI` `Pandas` `NumPy`
+
+- **[ShopEasy](https://github.com/GilMatzafi/ShopEasy)**  
+  Full-stack eCommerce platform with secure authentication and an admin dashboard for products, customers and orders.  
+  `React` `Redux Toolkit` `Node.js` `Express` `MongoDB`
 
 ---
 
