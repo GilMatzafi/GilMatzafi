@@ -1,9 +1,5 @@
 <div align="center">
 
-# Gil Matzafi
-
-**Full Stack Engineer**
-
 _Every line of code should earn its place._
 
 </div>
