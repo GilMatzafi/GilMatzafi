@@ -1,10 +1,11 @@
 <h1 align="center">Hi there! Glad to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 🤖</h1>
 
-I'm **Gil**, a Full Stack Engineer who loves building things from the first idea to the last pixel. B.Sc. in Computer Science from **Bar-Ilan University**.
+I'm **Gil**, a Full Stack Engineer who loves building things from the first idea to the last pixel.
 
 ---
 
 ### 📚 About Me
+- 🎓 **Education**: B.Sc. in Computer Science, Bar-Ilan University  
 - 🌟 **Interests**: Software Engineering, ML & AI, CyberSecuirity   
 - 📬 **Reach Me At**: [Gillm9136@gmail.com](mailto:Gillm9136@gmail.com)
 
