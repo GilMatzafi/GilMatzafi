@@ -6,18 +6,12 @@ I'm **Gil**, a Full Stack Engineer who loves building things from the first idea
 
 ### 📚 About Me
 - 🎓 **Education**: B.Sc. in Computer Science, Bar-Ilan University  
-- 📬 **Reach Me At**: [Gillm9136@gmail.com](mailto:Gillm9136@gmail.com)
+- 📬 **Reach Me At**: [Gillm9136@gmail.com](mailto:Gillm9136@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gil-matzafi/)
 
 ### 🎉 Fun Facts
 - 🎾 I love tennis  
 - ♟️ I enjoy playing chess  
 - 📈 I'm passionate about stocks  
-
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/gil-matzafi-65283723b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/GilMatzafi)
 
 ---
 
