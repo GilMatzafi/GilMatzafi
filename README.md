@@ -1,7 +1,6 @@
 <h1 align="center">Hi there! Glad to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 🤖</h1>
 
-Welcome to my GitHub page!  
-I'm **Gil Matzafi**, recently graduated with a B.Sc. in Computer Science from **Bar-Ilan University**.
+I'm **Gil**, a Full Stack Engineer who loves building things from the first idea to the last pixel. B.Sc. in Computer Science from **Bar-Ilan University**.
 
 ---
 
